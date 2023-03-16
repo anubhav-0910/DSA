@@ -30,5 +30,8 @@
     
     [Curated Problems with Code](https://leetcode.com/discuss/study-guide/1326900/graph-algorithms-problems-to-practice)
 
-
+## Bit Manipulation
+        
+    [Theory](https://leetcode.com/problems/sum-of-two-integers/solutions/84278/A-summary:-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently/)
+    [Good Problems](https://leetcode.com/discuss/study-guide/1150415/start-bit-manipulation-here)
   
