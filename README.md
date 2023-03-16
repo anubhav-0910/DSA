@@ -4,10 +4,16 @@
 
 ### [Sliding Window](https://leetcode.com/discuss/study-guide/1773891/Sliding-Window-Technique-and-Question-Bank)
 
+### [Greedy](https://leetcode.com/discuss/general-discussion/669996/greedy-for-beginners-problems-sample-solutions)
+
 ### [Linked list](https://sarthak-acoustic.medium.com/must-do-linkedlist-problems-on-leetcode-19f47dc88fff)
 
 ### [Trees](https://leetcode.com/discuss/study-guide/1337373/Tree-question-pattern-oror2021-placement)
 
+## Binary Search
+        
+    [Modified Binary Search](https://leetcode.com/discuss/interview-question/1322500/5-variations-of-Binary-search-(A-Self-Note))
+    [Pattern Problems](https://leetcode.com/discuss/general-discussion/691825/Binary-Search-for-Beginners-Problems-or-Patterns-or-Sample-solutions)
 
 ## DP
 
