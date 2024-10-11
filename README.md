@@ -1,6 +1,4 @@
-After solving lot of DSA problems, I’ve noticed some key patterns that are important for coding interviews. 
-At the end of this article, I have also included links to some of the best LeetCode articles that I found helpful for better understanding.
-------
+#### After solving lot of DSA problems, I’ve noticed some key patterns that are important for coding interviews. At the end of this article, I have also included links to some of the best LeetCode articles that I found helpful for better understanding.
 -------------
 
 ## 1. Fast and Slow Pointer
