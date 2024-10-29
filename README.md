@@ -1,4 +1,6 @@
-#### After solving lot of DSA problems, I’ve noticed some key patterns that are important for coding interviews. At the end of this article, I have also included links to some of the best LeetCode articles that I found helpful for better understanding.
+After solving lot of DSA problems, I’ve noticed some key patterns that are important for coding interviews. 
+At the end of this article, I have also included links to some of the best LeetCode articles that I found helpful for better understanding.
+------
 -------------
 
 ## 1. Fast and Slow Pointer
@@ -36,8 +38,9 @@
 #### Fixed Size
 - [Maximum Sum Subarray of Size K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
 - [Number of Subarrays having Average Greater or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
-- [Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/)
+- [Repeated DNA sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 - [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+- [Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/)
 - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 
 #### Variable Size
@@ -123,6 +126,7 @@
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+- [Single element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [Minimum Time to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)
 - [Capacity to Ship Packages within 'd' Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)
@@ -196,7 +200,6 @@
 - [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [Minimum Depth of BT](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
-- [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
 ### Root to leaf path problems
 - [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
@@ -205,6 +208,8 @@
 - [Smallest string starting from Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf)
 - [Insufficient nodes in root to Leaf](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/)
 - [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
+- [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+
 
 ### Ancestor problem
 - [LCA of Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
@@ -298,6 +303,7 @@
 
 - [Course Schedule](https://leetcode.com/problems/course-schedule/)
 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+- [Strange Printer ii](https://leetcode.com/problems/strange-printer-ii/)
 - [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/)
 - [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 
@@ -385,3 +391,5 @@ _________
 - [Bit Manipulation Problem solving](https://leetcode.com/problems/sum-of-two-integers/solutions/84278/A-summary:-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently/)
 - [All Types of Patterns for Bits Manipulations and How to use it](https://leetcode.com/discuss/interview-question/3695233/all-types-of-patterns-for-bits-manipulations-and-how-to-use-it)
 ----------------------------
+
+**Happy LeetCoding !**
